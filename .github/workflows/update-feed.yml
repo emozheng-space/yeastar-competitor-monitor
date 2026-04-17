@@ -22,8 +22,8 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
-
-    - name: Run scraper
+        
+      - name: Run scraper
         run: python scraper.py
         env:
           FEISHU_APP_ID:     ${{ secrets.FEISHU_APP_ID }}
