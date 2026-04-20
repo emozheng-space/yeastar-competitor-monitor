@@ -37,9 +37,9 @@ FEEDS = [
         "url": "https://www.reddit.com/search/.rss?q=NetSapiens+OR+Metaswitch+OR+Crexendo&type=posts&sort=new",
     },
     {
-        "label": "3CX Official Blog",
-        "type": "3CX",
-        "url": "https://www.3cx.com/feed/",
+        "label": "Google Alert - 3CX Blog",
+        "type": "Google Alert",
+        "url": "https://www.google.com/alerts/feeds/12333559685857933967/2064068063100081794",
     },
     {
         "label": "RingCentral Blog",
