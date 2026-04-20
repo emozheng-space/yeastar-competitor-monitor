@@ -38,7 +38,7 @@ FEEDS = [
     {
         "label": "3CX Official Blog",
         "type": "3CX",
-        "url": "https://www.3cx.com/feed/",
+        "url": "https://www.3cx.com/blog/category/news/feed/",
     },
     {
         "label": "RingCentral Blog",
